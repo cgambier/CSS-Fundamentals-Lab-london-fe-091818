@@ -15,6 +15,9 @@ a {
   background-color: grey;
 }
 
+img {
+  align-items: center
+}
 figcaption {
   text-align:center;
 }
